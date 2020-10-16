@@ -1,0 +1,21 @@
+{
+  "displayName": "Collections",
+  "name": "com.greatclock.collections",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Useful data structures for game development and other tools.",
+  "type": "library",
+  "keywords": [
+    "collections",
+    "data",
+    "structure"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegreatclock/collections.git"
+  },
+  "author": {
+    "name": "greatclock",
+    "email": "thegreatclock@hotmail.com"
+  }
+}
